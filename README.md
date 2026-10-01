@@ -4,6 +4,9 @@ Burn Book is a macOS desktop workflow for turning a Spotify playlist into an org
 
 > **Status:** active prototype. Playlist import, match review, MP3 export, disc inspection, capacity validation, and native burn commands are implemented. Optical-drive behaviour depends on the connected hardware and macOS support.
 
+## Preview
+![Burn Book’s retro red-and-cream playlist workflow](docs/images/burn-book-ui.png)
+
 ## Why I built it
 
 Making a mix CD currently means bouncing between a streaming playlist, searches, conversion tools, folders, metadata editors, and a separate burning application. Burn Book brings those steps into one explicit workflow while keeping the user in control of every media match.
